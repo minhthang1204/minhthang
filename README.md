@@ -3,9 +3,11 @@
 <h3 align="center">A passionate fullstack developer from Ha Noi</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-- 🔭 I’m currently working on [Final Project in HUST](https://github.com/minhthang1204/FinalProject)
 
-- 👯 I’m currently learning **DevOps, MicroServices**
+- 🔭 I’m currently working on Altek (https://altek.com.vn/)
+- 🔭 I’m currently coding on [Final Project in HUST](https://github.com/minhthang1204/FinalProject)
+
+- 👯 I’m currently learning **FullStack, DevOps, MicroServices**
 
 - 👨‍💻 All of my projects are available at [https://minhthang1204.github.io/MyCV/](https://minhthang1204.github.io/MyCV/)
 
