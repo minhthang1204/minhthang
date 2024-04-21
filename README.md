@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thắng. A Fresher Developer</h1>
 <h3 align="center">A passionate fullstack developer from Ha Noi</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 - 🔭 I’m currently working on [Final Project in HUST](https://github.com/minhthang1204/FinalProject)
 
