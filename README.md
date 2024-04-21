@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <br/>
 
-- 🔭 I’m currently working on Altek (https://altek.com.vn/)
+- 🔭 I’m currently working on [Altek] (https://altek.com.vn/)
 - 🔭 I’m currently coding on [Final Project in HUST](https://github.com/minhthang1204/FinalProject)
 
 - 👯 I’m currently learning **FullStack, DevOps, MicroServices**
